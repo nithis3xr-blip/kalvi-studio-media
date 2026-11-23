@@ -1,5 +1,5 @@
 {
- "_version": "2026-11-20T01:30:43.394Z",
+ "_version": "2026-11-23T11:44:28.000Z",
  "u1-c01": {
   "en": "https://nithis3xr-blip.github.io/kalvi-studio-media/v/u1-c01-en.mp4",
   "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media/v/u1-c01-ta.mp4"
@@ -639,5 +639,273 @@
  "chem-u10-c70": {
   "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-6/v/chem-u10-c70-en.mp4",
   "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-6/v/chem-u10-c70-ta.mp4"
+ },
+ "bot-u1-c01": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c01-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c01-ta.mp4"
+ },
+ "bot-u1-c02": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c02-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c02-ta.mp4"
+ },
+ "bot-u1-c03": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c03-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c03-ta.mp4"
+ },
+ "bot-u1-c04": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c04-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c04-ta.mp4"
+ },
+ "bot-u1-c05": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c05-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c05-ta.mp4"
+ },
+ "bot-u1-c06": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c06-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c06-ta.mp4"
+ },
+ "bot-u1-c07": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c07-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c07-ta.mp4"
+ },
+ "bot-u1-c08": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c08-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c08-ta.mp4"
+ },
+ "bot-u1-c09": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c09-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c09-ta.mp4"
+ },
+ "bot-u1-c10": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c10-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c10-ta.mp4"
+ },
+ "bot-u1-c11": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c11-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c11-ta.mp4"
+ },
+ "bot-u1-c12": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c12-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c12-ta.mp4"
+ },
+ "bot-u1-c13": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c13-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c13-ta.mp4"
+ },
+ "bot-u1-c14": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c14-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c14-ta.mp4"
+ },
+ "bot-u1-c15": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c15-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c15-ta.mp4"
+ },
+ "bot-u1-c16": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c16-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c16-ta.mp4"
+ },
+ "bot-u1-c17": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c17-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c17-ta.mp4"
+ },
+ "bot-u1-c18": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c18-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c18-ta.mp4"
+ },
+ "bot-u1-c19": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c19-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c19-ta.mp4"
+ },
+ "bot-u1-c20": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c20-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c20-ta.mp4"
+ },
+ "bot-u1-c21": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c21-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c21-ta.mp4"
+ },
+ "bot-u1-c22": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c22-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c22-ta.mp4"
+ },
+ "bot-u1-c23": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c23-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c23-ta.mp4"
+ },
+ "bot-u1-c24": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c24-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c24-ta.mp4"
+ },
+ "bot-u1-c25": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c25-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c25-ta.mp4"
+ },
+ "bot-u1-c26": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c26-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c26-ta.mp4"
+ },
+ "bot-u1-c27": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c27-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-7/v/bot-u1-c27-ta.mp4"
+ },
+ "zoo-u1-c01": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c01-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c01-ta.mp4"
+ },
+ "zoo-u1-c02": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c02-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c02-ta.mp4"
+ },
+ "zoo-u1-c03": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c03-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c03-ta.mp4"
+ },
+ "zoo-u1-c04": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c04-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c04-ta.mp4"
+ },
+ "zoo-u1-c05": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c05-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c05-ta.mp4"
+ },
+ "zoo-u1-c06": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c06-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c06-ta.mp4"
+ },
+ "zoo-u1-c07": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c07-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c07-ta.mp4"
+ },
+ "zoo-u1-c08": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c08-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c08-ta.mp4"
+ },
+ "zoo-u1-c09": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c09-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c09-ta.mp4"
+ },
+ "zoo-u1-c10": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c10-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c10-ta.mp4"
+ },
+ "zoo-u1-c11": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c11-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c11-ta.mp4"
+ },
+ "zoo-u1-c12": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c12-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c12-ta.mp4"
+ },
+ "zoo-u1-c13": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c13-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c13-ta.mp4"
+ },
+ "zoo-u1-c14": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c14-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c14-ta.mp4"
+ },
+ "zoo-u1-c15": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c15-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c15-ta.mp4"
+ },
+ "zoo-u1-c16": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c16-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c16-ta.mp4"
+ },
+ "zoo-u1-c17": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c17-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c17-ta.mp4"
+ },
+ "zoo-u1-c18": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c18-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c18-ta.mp4"
+ },
+ "zoo-u1-c19": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c19-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c19-ta.mp4"
+ },
+ "zoo-u1-c20": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c20-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c20-ta.mp4"
+ },
+ "zoo-u1-c21": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c21-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c21-ta.mp4"
+ },
+ "zoo-u1-c22": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c22-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c22-ta.mp4"
+ },
+ "zoo-u1-c23": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c23-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c23-ta.mp4"
+ },
+ "zoo-u1-c24": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c24-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c24-ta.mp4"
+ },
+ "zoo-u1-c25": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c25-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c25-ta.mp4"
+ },
+ "zoo-u1-c26": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c26-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c26-ta.mp4"
+ },
+ "zoo-u1-c27": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c27-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c27-ta.mp4"
+ },
+ "zoo-u1-c28": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c28-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c28-ta.mp4"
+ },
+ "zoo-u1-c29": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c29-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c29-ta.mp4"
+ },
+ "zoo-u1-c30": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c30-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c30-ta.mp4"
+ },
+ "zoo-u1-c31": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c31-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c31-ta.mp4"
+ },
+ "zoo-u1-c32": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c32-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c32-ta.mp4"
+ },
+ "zoo-u1-c33": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c33-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c33-ta.mp4"
+ },
+ "zoo-u1-c34": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c34-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c34-ta.mp4"
+ },
+ "zoo-u1-c35": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c35-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c35-ta.mp4"
+ },
+ "zoo-u1-c36": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c36-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c36-ta.mp4"
+ },
+ "zoo-u1-c37": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c37-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c37-ta.mp4"
+ },
+ "zoo-u1-c38": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c38-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c38-ta.mp4"
+ },
+ "zoo-u1-c39": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c39-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c39-ta.mp4"
+ },
+ "zoo-u1-c40": {
+  "en": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c40-en.mp4",
+  "ta": "https://nithis3xr-blip.github.io/kalvi-studio-media-8/v/zoo-u1-c40-ta.mp4"
  }
 }
